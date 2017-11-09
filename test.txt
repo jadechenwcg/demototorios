@@ -1,5 +1,11 @@
 aaaaaaa
 
+<<<<<<< HEAD
 // comment
 
 // add 1
+=======
+// comment with conflict
+
+// add 2
+>>>>>>> f78a3f92876875be86f0e632bc4e2e050637d098
